@@ -1,0 +1,9 @@
+# files/directories to be ignored in this repo
+
+# files:
+*.pyc
+*.mpy
+*.bin
+
+# directories:
+__pycache__/
