@@ -2,6 +2,7 @@
 ### Second Edition
 ### Author: Dusty Phillips
 
+--------------
 September 2017
 
 This repo is of my working through this book.
